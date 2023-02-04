@@ -1,0 +1,20 @@
+h1{
+background-color: rgb(12, 11, 11);
+color:blue;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+ .link{
+    color: blue;
+    background-color:pink ;
+ }
+ .description{
+    color: red;
+ }
+ .ingredients{
+    color:yellow;
+    background-color: black;
+ }
+ .steps{
+    color: green
+ }
